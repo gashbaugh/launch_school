@@ -1,0 +1,34 @@
+en:
+  welcome: "Welcome to the calculator! Enter your name:"
+  valid_name: "Make sure you enter a valid name."
+  name_greeting: "Welcome "
+  gather_num_1: "What is the first number?"
+  invalid_num_entry: "Hmmmm that doesn't look like a valid number..."
+  gather_num_2: "What is the second number?"
+  operator_error: "Must choose 1, 2, 3, or 4"
+  another_op?: "Would you like to perform another calculation? (Y to calculate again)"
+  exit_message: "Thank you for using the calculator!"
+#   op_prompt: %w{= <<-MSG
+# What operation would you like to perform?
+#    1) Add
+#    2) Subract
+#    3) Multiply
+#    4) Divide
+#   MSG}
+es:
+  welcome: "¡Bienvenido a la calculadora! Introduzca su nombre:"
+  valid_name: "Asegúrese de ingresar un nombre válido."
+  name_greeting: "Bienvenido"
+  gather_num_1: "¿Cuál es el primer número?"
+  invalid_num_entry: "Hmmmm ese no parece un número válido..."
+  gather_num_2: "¿Cuál es el segundo número?"
+  operator_error: "Debe elegir 1, 2, 3 o 4"
+  another_op?: "¿Desea realizar otro cálculo? (Y para calcular de nuevo)"
+  exit_message: "¡Gracias por usar la calculadora!"
+#   op_prompt: %w{= <<-MSG
+# What operation would you like to perform?
+#    1) Add
+#    2) Subract
+#    3) Multiply
+#    4) Divide
+#   MSG}
